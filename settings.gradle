@@ -1,0 +1,3 @@
+rootProject.name='RestApplication'
+include ':app'
+include ':SharedCode'
